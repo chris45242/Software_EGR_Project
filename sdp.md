@@ -8,6 +8,8 @@
 	etc.
 
 ## Development Methodology
+* Scrum Methodology
+* Kanban is a tool used to keep track of our project progress
 * Waterfall, Agile, something in between?
 
 ## Milestones
